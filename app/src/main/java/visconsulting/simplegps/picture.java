@@ -11,5 +11,7 @@ public class picture extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.picture_log);
 
+        //take picture
+
     }
 }
